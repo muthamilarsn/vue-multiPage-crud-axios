@@ -38,3 +38,10 @@ Tutorial page, http://localhost:8080/tutorials
 
 Edit/Delete record::::
 ![image](https://user-images.githubusercontent.com/67001973/167248420-368befa7-e344-47fa-9555-a933ea70de2d.png)
+
+After updating the record (published) ::::::
+![image](https://user-images.githubusercontent.com/67001973/167248486-5515d878-2d93-4ece-8261-5d295d728010.png)
+
+record updation reflected back in the home page:::::
+![image](https://user-images.githubusercontent.com/67001973/167248524-a85b7a66-ef3a-4970-b98c-596eb67311e5.png)
+
